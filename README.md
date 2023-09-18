@@ -15,7 +15,3 @@
 - issues can be filed under the issues tab
 - ".rbxm" files can be simply dragged and dropped into studio to access their contents
 
-
-# Documentation
-- Language Docs can be found at on the [roblox documentation site](https://create.roblox.com/docs)
-  
